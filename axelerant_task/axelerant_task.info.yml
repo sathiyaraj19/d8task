@@ -1,0 +1,6 @@
+name: Axelerant Task
+type: module
+description: 'Custom module for task given by Axelerant'
+core: 8.x
+dependencies:
+  - node
